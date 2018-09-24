@@ -41,7 +41,5 @@ This workshop covers Git CLI (command line interface).  [It does not use Git GUI
      - create a branch and work from it
      - undo Git changes
 
-
-(09/2018)
      
  
