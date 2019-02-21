@@ -1,5 +1,5 @@
 
-![git logo](images/github.jpg)
+
 
 # Intro to Git & GitHub -  Workshop
 
