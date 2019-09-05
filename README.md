@@ -13,7 +13,7 @@ Email:   l00136877@student.lyit.ie
 #### About Me
 * B. Sc. (Hons.) student at Letterkenny Institute of Technology
 * Part of the [AWS User Group Donegal](https://www.meetup.com/AWS-User-Group-Donegal/) and [NxNW](https://www.meetup.com/North-by-Northwest-Tech-Meetup/)
-* hopefully soon your GitHub Campus Expert
+* GitHub Campus Expert
 
 ![git logo](images/git.png)
 
