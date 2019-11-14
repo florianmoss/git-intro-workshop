@@ -15,8 +15,8 @@
   - add a line with an emoji
   - I added:  `Looking forward to the party :pizza: ! :smiley:_` :arrow_right: _Looking forward to the party :pizza: ! :smiley:_
   - Here's the [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :octocat:
-- Add a Java file:  `hello.java`
-  - add a line, the ubiquitous:  `System.out.print("Hello World")`
+- Add a HTML file:  `hello.html`
+  - add a line, the ubiquitous:  `Hello World`
   
 **Note:  add a meaningful commit message**  
 
