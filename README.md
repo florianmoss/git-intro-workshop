@@ -3,8 +3,6 @@
 
 # Intro to Git & GitHub -  Workshop
 
-### :exclamation: STOP sending code via E-Mail :exclamation:
-
 #### Contact Info
 Presenter:  Florian Moss 
 
@@ -12,6 +10,8 @@ Email:   l00136877@student.lyit.ie
 
 #### About Me
 * B. Sc. (Hons.) student at Letterkenny Institute of Technology
+* Software Architect at [Pramerica](https://www.pramerica.ie/)
+* Contributor to [draw.io](https://www.draw.io/)
 * Part of the [AWS User Group Donegal](https://www.meetup.com/AWS-User-Group-Donegal/) and [NxNW](https://www.meetup.com/North-by-Northwest-Tech-Meetup/)
 * GitHub Campus Expert
 
