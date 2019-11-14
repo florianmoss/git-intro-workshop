@@ -14,11 +14,11 @@ task:  send changes from local computer to GitHub repo (sync repos)
 
 ### `git add` a file
 This sets a file for staging:  
-`git add print_name.java`  
+`git add print_name.html`  
 
 >my example  
 ```
-git add print_name.java
+git add print_name.html
 ```
 
 
@@ -30,12 +30,12 @@ Your branch is up-to-date with 'origin/master'.
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-	new file:   print_name.java
+	new file:   print_name.html
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	print_name.java~
+	print_name.html~
 
 
 ```
@@ -46,7 +46,7 @@ Untracked files:
 ▶ git commit -m 'adding file that prints my name'
 [master bfefcd3] adding file that prints my name
  1 file changed, 1 insertion(+)
- create mode 100644 print_name.java
+ create mode 100644 print_name.html
 
 ▶ git status
 On branch master
@@ -55,7 +55,7 @@ Your branch is ahead of 'origin/master' by 1 commit.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	print_name.java~
+	print_name.html~
 
 nothing added to commit but untracked files present (use "git add" to track)
 
