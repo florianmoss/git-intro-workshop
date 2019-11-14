@@ -54,9 +54,9 @@ Already up-to-date.
 
 ### Let's make a change on local computer and push changes up to GitHub
 Use an editor of your choice to create a java file which will print your name.  
-My file `print_name.java` contains the following line of code:  
-```java
-System.out.print("My name is Florian")
+My file `print_name.html` contains the following line of code:  
+```python
+Florian Moss
 ```
 
 ## We made a change!  How does git track it? `git status`
@@ -68,7 +68,7 @@ Your branch is up-to-date with 'origin/master'.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	print_name.java
+	print_name.html
 
 nothing added to commit but untracked files present (use "git add" to track)
 
