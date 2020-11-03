@@ -6,14 +6,12 @@
 #### Contact Info
 Presenter:  Florian Moss 
 
-Email:   l00136877@student.lyit.ie 
+Email:   fmoss@redhat.com
 
 #### About Me
-* B. Sc. (Hons.) student at Letterkenny Institute of Technology
-* Software Architect at [Pramerica](https://www.pramerica.ie/)
+* Solution Architect at [Red Hat](https://www.redhat.com/)
 * Contributor to [draw.io](https://www.draw.io/)
-* Part of the [AWS User Group Donegal](https://www.meetup.com/AWS-User-Group-Donegal/) and [NxNW](https://www.meetup.com/North-by-Northwest-Tech-Meetup/)
-* GitHub Campus Expert
+* GitHub Campus Expert 2018-2020
 
 ![git logo](images/git.png)
 
